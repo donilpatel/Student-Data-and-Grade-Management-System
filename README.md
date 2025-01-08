@@ -1,1 +1,1 @@
-# CP317-Project
+# Student Data and Grade Management System
