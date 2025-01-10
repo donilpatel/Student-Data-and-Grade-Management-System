@@ -1,5 +1,10 @@
 # Student Data and Grade Management System
 
+## Overview
+The **Student Data and Grade Management System** is a Java-based application designed to process and manage student records. It reads input files containing student data, calculates final grades using weighted averages, and outputs the results in a sorted format. This project adheres to Object-Oriented Programming principles and integrates robust error-handling mechanisms to ensure reliability.
+
+---
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -7,11 +12,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
----
-
-## Overview
-The **Student Data and Grade Management System** is a Java-based application designed to process and manage student records. It reads input files containing student data, calculates final grades using weighted averages, and outputs the results in a sorted format. This project adheres to Object-Oriented Programming principles and integrates robust error-handling mechanisms to ensure reliability.
 
 ---
 
