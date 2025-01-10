@@ -11,7 +11,6 @@ The **Student Data and Grade Management System** is a Java-based application des
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ---
 
@@ -66,12 +65,3 @@ The **Student Data and Grade Management System** is a Java-based application des
 2. Run the application as described above.
 3. Follow the prompts to specify the input file, grading criteria, and output preferences.
 4. Review the output file containing sorted results in the `output/` directory.
-
----
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes with descriptive messages.
-4. Push to your branch and create a pull request.
